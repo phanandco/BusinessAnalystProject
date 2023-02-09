@@ -126,7 +126,9 @@ Evaluation:
 - IT technicians will also help support the application and with any technical difficulty faced by the users.
 ## 5.2 Preliminary operational scenarios
 1. Delivery: - Delivery drivers may use the system to check the inventory, the schedule and location for a specific project.
+
              - Delivery drivers may use the system to update delivery status and comment on a delivery.
+            
 2. Inventory: - The inventory manager may use the system to manage inventory items and restocking supplies when inventory is running low.
               - The inventory manager may use the system to update inventory after restocking or preparing supplies for installations.
               - The inventory manager may use the system to access on supply and demands, how well each product is selling.
