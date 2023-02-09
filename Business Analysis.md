@@ -50,6 +50,7 @@ Business Process #1: Employee Management
 - System Interfaces: Personalized dynamic calendar for deploying employees.
 3. Employee check-in: Employees will use the app to clock in and out while coming to work and the site of the project.
 - System Interfaces: GPS tracking for employee check-in and check-out.
+
 Business Process #2: Inventory Management
 1. Inventory Tracking: The apllication will monitor supply of lights and decoration coming in and out of storage.
 - System Interfaces: Inventory tracking database within application.
@@ -57,6 +58,7 @@ Business Process #2: Inventory Management
 - System Interfaces: Automatic ordering system.
 3. Delivery tracking: The application will track information of delivery and update inventory.
 - System Interfaces: Delivery tracking system including destination, time, content, and the price of each delivery.
+
 Business Process #3: Customer Management
 1. Customer registration: The application will record the provided customer information and request service.
 - System Interfaces: Customer information database within the application.
@@ -64,6 +66,7 @@ Business Process #3: Customer Management
 - System Interfaces: Calendar for service scheduling
 3. Service tracking: The application will be able to track the progress of the services, as well as past services, to update into the customer's account.
 - System Interfaces: Customer account management.
+
 Business Process #4: Transaction Management
 1. Invoicing: The application should be able to generate customer invoices.
 - System Interfaces: Invoicing and quoting from an employee can be generated and printed.
