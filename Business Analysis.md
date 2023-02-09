@@ -8,7 +8,12 @@ Internal divisions may include:
 - The owner of the Company Harry Underhil that's managing the basic operation and hiring employees for the company.
 - Head employees that are in charge of a specific team of employee staffs for each individual projects.
 - The accountants are responsible for keeping track of clients and suplliers transactions.
-- The inventory manager has the job of keeping track of inventory, what's coming in and out. 
+- The inventory manager has the job of keeping track of inventory, what's coming in and out.
+- Accountants and inventory managers work together to calculate expenses and profit.
+External divisions may include:
+- Users placing orders and receiving invoices and quotes.
+- Competitors are trying to get the most out of the market.
+- Regulators may interfere with paperwork and supply chain.
 
 ## 4. Definitions 
 
@@ -38,6 +43,28 @@ https://www.christmasglowsco.com/about
 - The system should include delivery routes and addresses.
 # 4. Business operational requirements
 ## 1. Business processes
+Business Process #1: Employee Management
+1. Employee application: Employees will have to fill out personal information, attach required documents, and work availability.
+- System Interfaces: Employee registration form within the application.
+2. Employee scheduling: Employees are divided into teams for certain projects with a designated head supervisor, and the schedule of the duration of the project.
+- System Interfaces: Personalized dynamic calendar for deploying employees.
+3. Employee check-in: Employees will use the app to clock in and out while coming to work and the site of the project.
+- System Interfaces: GPS tracking for employee check-in and check-out.
+Business Process #2: Inventory Management
+1. Inventory Tracking: The apllication will monitor supply of lights and decoration coming in and out of storage.
+- System Interfaces: Inventory tracking database within application.
+2. Supply Restocking: The application will automatically restock supplies that are running low.
+- System Interfaces: Automatic ordering system.
+3. Delivery tracking: The application will track information of delivery and update inventory.
+- System Interfaces: Delivery tracking system including destination, time, content, and the price of each delivery.
+Business Process #3: Customer Management
+1. Customer registration: The application will record the provided customer information and request service.
+- System Interfaces: Customer information database within the application.
+2. Service scheduling: The application will create schedules based on customer requests and workforce availability.
+- System Interfaces: Calendar for service scheduling
+3. Service tracking: The application will be able to track the progress of the services, as well as past services, to update into the customer's account.
+- System Interfaces: Customer account management.
+
 ## 2. Business operational policies and rules
 ## 3. Business operational constraints
 ## 4. Business operational modes
