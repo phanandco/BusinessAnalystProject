@@ -20,7 +20,8 @@ External divisions may include:
 ## 5. Major stakeholders 
 - The major stakeholders are the Christmas Glows Company owner Harry Underhill, and the project manager Tony Underhill.
 # 2. References
-https://www.christmasglowsco.com/about
+- https://www.christmasglowsco.com/about
+- Tony Underhill (project manager)
 # 3. Business management requirements
 ## 1. Business environment
 - Drivers and employees are on the road most of the times so it requirement the maximum software portabliity.
@@ -74,25 +75,97 @@ Business Process #4: Transaction Management
 - System Interfaces: Payment processing system
 3. Accounting: The application should be able to generate an expense and profit report.
 - System Interfaces: Accounting system
+
 ## 2. Business operational policies and rules
+Conditions:
+1. Start Condition: Before each project begins, customers have to select a price package and order it.
+2. Branch Condition: If the customer decide to cancel or request additional service, the cost of the project will influctuate. 
+3. Termination Condition: Projects will be terminated via order cancellation or installing completion. 
+Criteria:
+1. Quality Criteria: All projects must meet industry standards for safety and quality.
+2. Timing Criteria: All projects must be completed by certain deadlines that was agreed upon.
+Evaluation:
+1. Cost evaluation: Final quote to the customers will be the sum of the amount of money required for resources and supplies for the project.
 ## 3. Business operational constraints
+- The installation process shall be started and finished within the scheduled timeline.
+- The installation shall only begin after the customers select their desired service and process payment.
+- Employee staffs shall not have access to financial information, only the accountant.
 ## 4. Business operational modes
+1. In the event of business operating in an unsteady state such as accident or natural disasters, the business will record information manually.
+2. Backup systems and supplies will be imposed to prevent the loss of data or the loss of electricity.
+3. The business shall have employee training sessions to be able to operate the business in an unsteady state.
+4. The operation shall arrange tasks based on their priority and severity when operating in an unsteady state.
 ## 5. Business operational quality
+1. Reliablity: All installed product must be able to last a reasonable amount of time of the quoted price.
+2. Efficiency: Projects must be completed within the contracted timeframe and cost.
+3. Customer Satisfaction: All business processes must meet customer expectation.
+4. Safety: All business practice must follow industry standard safety code.
 ## 6. Business structure
+- The business structure is divided as follows: The business owner is at the top of the company, managing project head-supervisors that manage multiple assigned employee staffs for a specific project; the inventory manager works with the owners and supervisors to quote the costs and supplies for projects, also working with the customers. The inventory manager also works with the accountant to create financial reports and decisions.
+- The business owner manages the whole scope of the business and have access to all information. The superviors and staffs are only allowed to access the inventory and information of a specific project, but not the entire inventory or related financial information. The inventory manager will only have access to the inventory and the ability to resupply and quote it to the accountant, but will not have to ability to access all financial information because that is the sole responsibility of the accountant. 
+- The bussiness operate and is available within the Florida's space coast. 
+- Business employees share a variety of company resources which include delivery vehicles, company computers and tablets. 
 # 5. Preliminary operational concept of proposed system
 ## 5.1 Preliminary operational concept
 ### a) operational policies and constraints;
+- All users must login in order to authenticate and authorize.
+- The application must be able to be portable and functional with or without internet connection.
+- The application must update information according to the inventory and schedule according to the current time.
+- The application must be accessible and easy to navigate and operate.
 ### b) description of the proposed system;
+- The proposed system is an IOS application used by employees to keep track of inventory and customer accounts and history, provide real-time information for employees, resupply inventory, file financial reports, and update information as needed. Only specfic roles in the company will have access to certain information and functionalities.
 ### c) modes of system operation;
-### d) user classes and other involved personnel; and
+- The application has two modes of operation: offline and online mode.
+- When online, the application will function under a cloud-based system to backup information.
+- When offline, the application will utilize local storage of the devices, then syncing with the cloud system when an internet connection is available.
+### d) user classes and other involved personnel;
+- The primary users of the app will be the company's owner and employees, who will be responsible for managing the inventory and placing orders as needed. 
+- IT staffs are also in charge of supporting the application after the delivery.
 ### e) support environment.
+- The app will mainly be an offline application but will also operate under a cloud-based system when there is internet.
+- IT technicians will also help support the application and with any technical difficulty faced by the users.
 ## 5.2 Preliminary operational scenarios
+1. Delivery: - Delivery drivers may use the system to check the inventory, the schedule and location for a specific project.
+             - Delivery drivers may use the system to update delivery status and comment on a delivery.
+2. Inventory: - The inventory manager may use the system to manage inventory items and restocking supplies when inventory is running low.
+              - The inventory manager may use the system to update inventory after restocking or preparing supplies for installations.
+              - The inventory manager may use the system to access on supply and demands, how well each product is selling.
+3. Maintenance: - IT technicians may use the system to test the robustness of the system, to support and update the system, and discover any 
+                  potential problems with the system.
+4. Scheduling: - Head supervisors may use the system to view/update project schedule.
+               - Staffs may use the system to find out informations about a specific project.
+               - Sales associate may also use the system to view/update project schedule in accordance with customer agreements.
+5. Transactions: - The accountant may use the system to view/create/update customer quotes and transactions.
+                 - The accountant may use the system to view/create past to present financial reports.
+                 - The accountant may use the system to view/create/update customer accounts.
+                 
 # 6. Other preliminary life-cycle concepts
 ## 6.1 Preliminary acquisition concept
+- The application will be under the form of an IOS application.
+- The application must abide by the business and functional requirements demanded by the stakeholder.
+- The application must be aquired by the deadline.
+- The stakeholder wants to reserve the sole right to the application and data.
+- The application must meet the design requirement.
+- The application must be registered, documented, and tested before aquisition. 
 ## 6.2 Preliminary deployment concept
+- The application must be tested and finalized for functional features, and correctly documented.
+- Stakeholders feedback is required before moving on to the next phase of development.
+- After validation, the application will be install on one of the company devices to test the final product.
+- All employees must go through basic training for the application before it is fully implemented into regular business operation.
+- Finally, company will provide extra devices with the included application to the employee if the stakeholders are satisfied with the final product.
 ## 6.3 Preliminary support concept
+- The stakeholders may depend on the developers or hire their own technician to help support the application.
+- Updates should be available but not too often since the application doesn't require a lot of support.
+- Backup data systems should be supported.
+- Employees who are proficient with the applications will continue to train new employees how to operate it.
 ## 6.4 Preliminary retirement concept
+- The application may be retired when there are better alternatives availability.
+- The application may be retired when there's a change in business model and operation.
+- The application may be retired when the hardware it is operating on is out-of-date and moving on to a newer generation hardware is necessary.
 # 7. Project Constraints
+- The project must finish by August of the year 2023.
+- Prototypes must require stakeholder feedback.
 # 8. Appendix
 ## 8.1 Acronyms and abbreviations
-
+IT: Information Technology
+IOS: Iphone Operating System
