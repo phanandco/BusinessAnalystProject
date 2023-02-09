@@ -64,7 +64,13 @@ Business Process #3: Customer Management
 - System Interfaces: Calendar for service scheduling
 3. Service tracking: The application will be able to track the progress of the services, as well as past services, to update into the customer's account.
 - System Interfaces: Customer account management.
-
+Business Process #4: Transaction Management
+1. Invoicing: The application should be able to generate customer invoices.
+- System Interfaces: Invoicing and quoting from an employee can be generated and printed.
+2. Payment Processing: The application will process multiple ways of payment.
+- System Interfaces: Payment processing system
+3. Accounting: The application should be able to generate an expense and profit report.
+- System Interfaces: Accounting system
 ## 2. Business operational policies and rules
 ## 3. Business operational constraints
 ## 4. Business operational modes
