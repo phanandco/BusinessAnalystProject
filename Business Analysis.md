@@ -125,21 +125,24 @@ Evaluation:
 - The app will mainly be an offline application but will also operate under a cloud-based system when there is internet.
 - IT technicians will also help support the application and with any technical difficulty faced by the users.
 ## 5.2 Preliminary operational scenarios
-1. Delivery: - Delivery drivers may use the system to check the inventory, the schedule and location for a specific project.
-
-             - Delivery drivers may use the system to update delivery status and comment on a delivery.
+1. Delivery: 
+- Delivery drivers may use the system to check the inventory, the schedule and location for a specific project.
+- Delivery drivers may use the system to update delivery status and comment on a delivery.
             
-2. Inventory: - The inventory manager may use the system to manage inventory items and restocking supplies when inventory is running low.
-              - The inventory manager may use the system to update inventory after restocking or preparing supplies for installations.
-              - The inventory manager may use the system to access on supply and demands, how well each product is selling.
-3. Maintenance: - IT technicians may use the system to test the robustness of the system, to support and update the system, and discover any 
-                  potential problems with the system.
-4. Scheduling: - Head supervisors may use the system to view/update project schedule.
-               - Staffs may use the system to find out informations about a specific project.
-               - Sales associate may also use the system to view/update project schedule in accordance with customer agreements.
-5. Transactions: - The accountant may use the system to view/create/update customer quotes and transactions.
-                 - The accountant may use the system to view/create past to present financial reports.
-                 - The accountant may use the system to view/create/update customer accounts.
+2. Inventory: 
+- The inventory manager may use the system to manage inventory items and restocking supplies when inventory is running low.
+- The inventory manager may use the system to update inventory after restocking or preparing supplies for installations.
+- The inventory manager may use the system to access on supply and demands, how well each product is selling.
+3. Maintenance: 
+- IT technicians may use the system to test the robustness of the system, to support and update the system, and discover any potential problems with the system.
+4. Scheduling: 
+- Head supervisors may use the system to view/update project schedule.
+- Staffs may use the system to find out informations about a specific project.
+- Sales associate may also use the system to view/update project schedule in accordance with customer agreements.
+5. Transactions: 
+- The accountant may use the system to view/create/update customer quotes and transactions.
+- The accountant may use the system to view/create past to present financial reports.
+- The accountant may use the system to view/create/update customer accounts.
                  
 # 6. Other preliminary life-cycle concepts
 ## 6.1 Preliminary acquisition concept
