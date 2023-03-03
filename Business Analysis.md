@@ -1,8 +1,15 @@
 # 1. Introduction
 ## 1. Business purpose
 - Christmas Glows Company is a small business specializing in the installation of decorative holiday lighting but also do regular commercial installations with commission. 
+-  With all businesses turning towards a digital and automated business model, Chirstmas Glows Company must adapt in order to remain competitive and meet the changing needs of their customers.
+-  The proposed system will help automate and migrate Chirstmas Glows Company's business operation to mostly digital to be more efficient. By automating manual tasks, the company and its employees will potentially reduce human errors and save time.
 ## 2. Business scope
-- The business operate within the Florida's space coast specifically: Titusville, Mims, Cape Canaveral, Merritt Island, Cocoa Beach, Cocoa, Rockledge, Viera, Palm Shores, Melbourne , Palm Bay, Indialantic, Satellite Beach, Melbourne Beach, Indian Harbour Beach, Grant-Valkaria, and Malabar.
+- Christmas Glows Company, a decorative light installation company, operates within the Florida's space coast specifically: Titusville, Mims, Cape Canaveral, Merritt Island, Cocoa Beach, Cocoa, Rockledge, Viera, Palm Shores, Melbourne , Palm Bay, Indialantic, Satellite Beach, Melbourne Beach, Indian Harbour Beach, Grant-Valkaria, and Malabar.
+- The range of business activities includes: quoting, designing, installing decorative lighting projects for residential and commercial properties.
+- The business involves interactions between employees, with the suppliers and customers.
+- The scope of the system being developed is an iPad application that will automate most business operations that include scheduling, inventory managing, progress tracking, and quote generating for employees. 
+- The proposed system is assumed to be exclusively used by the employees of the company to streamline daily tasks and improve company's efficiency.
+- The scope of the system does not include external entities. 
 ## 3. Business overview
 Internal divisions may include:
 - The owner of the Company Harry Underhil that's managing the basic operation and hiring employees for the company.
