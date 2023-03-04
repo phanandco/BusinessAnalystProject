@@ -192,3 +192,9 @@ Evaluation:
 ## 8.1 Acronyms and abbreviations
 IT: Information Technology
 IOS: Iphone Operating System
+
+# Business Analysis Questions:
+1. What kind of training will employees need to use the new system effectively?
+2. What are the expected benefits of implementing the proposed system?
+3. What are the most critical features of the proposed system that will expect to improve efficiency of the business.
+4. What are the budget and timeline to complete and implement the proposed system.
