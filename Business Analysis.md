@@ -9,26 +9,29 @@
 - The business involves interactions between employees, with the suppliers and customers.
 - The scope of the system being developed is an iPad application that will automate most business operations that include scheduling, inventory managing, progress tracking, and quote generating for employees. 
 - The proposed system is assumed to be exclusively used by the employees of the company to streamline daily tasks and improve company's efficiency.
-- The scope of the system does not include external entities. 
+- The scope of the system does not include working with external entities. 
 ## 3. Business overview
 Internal divisions may include:
 - The owner of the Company Harry Underhil that's managing the basic operation and hiring employees for the company.
 - Head employees that are in charge of a specific team of employee staffs for each individual projects.
 - The accountants are responsible for keeping track of clients and suplliers transactions.
 - The inventory manager has the job of keeping track of inventory, what's coming in and out.
-- Accountants and inventory managers work together to calculate expenses and profit.
+- Inventory manager will be able to generate a quote based on the supplies and service fee of a specific project.
 External divisions may include:
 - Users placing orders and receiving invoices and quotes.
 - Competitors are trying to get the most out of the market.
-- Regulators may interfere with paperwork and supply chain.
+- Regulators and suppliers may interfere with paperwork and supply chain.
 
 ## 4. Definitions 
 
 ## 5. Major stakeholders 
-- The major stakeholders are the Christmas Glows Company owner Harry Underhill, and the project manager Tony Underhill.
+- The major stakeholders are the clients (the Christmas Glows Company owner Harry Underhill, and the project manager Tony Underhill).
+- The users (company employees, including the inventory manager).
+- The software engineers develope, test, perform maintenance, and retirement plan for the propsed system.
 # 2. References
 - https://www.christmasglowsco.com/about
 - Tony Underhill (project manager)
+
 # 3. Business management requirements
 ## 1. Business environment
 - Drivers and employees are on the road most of the times so it requirement the maximum software portabliity.
@@ -36,19 +39,27 @@ External divisions may include:
 - One of the main suppliers is Amazon, an online retailer.
 - Hard-copied data and documents are difficult to keep track off.
 ## 2. Mission, goals, and objectives
-- The goals and objective of the company is to successfully deliver and complete 25 light projects by the end of 2023.
+- The goals and objective of the company is to successfully deliver and complete 25 projects by the end of 2023.
 - Their mission is to "serve customers and make the holidays affordable for everyone with honorable services and expectations."
+- With the proposed system, labor cost will be reduced, which will lead to more afforable price.
+- The proposed system will automate business operations, to be more time efficient, to reduce human errors, which might lead to better customer experience and feedback.
+
 ## 3. Business model
 - To efficiently save time, money and human resources.
 - To offer the best quality work and products based on the price of the selected packages.
 - To create job opportunities within young adults that requires high-school diploma as a job requirement.
 - To maximally utilize and take advantage of the potential of the decorative lighting industry.
+- To achieve its business mission, the business will have to complete several methods like: Personnalization (offering multiple choices and packages for the cutomers to select from), Localization (The business' focus is around the Florida's space coast area), Distribution (the business will provide their services to the customers through the phone, in person, or though the company's website, Partnership (the business is partnering up with suppliers and similar business operation to achieve the best outcome for all parties involved).
+
 ## 4. Information environment
 - Customers are being served and the priority of a specific project will be based on the commissioned price, project deadline, and the earlier placed order will likey be entered into the system first.
 - The system will be developed as an IOS application that will be available on mupltiple employee devices that was handed out by the business owner.
 - The system requires the collection of inventory items, clients and supllier transactions and invoices, customer quotes, scheduling including projects start time, end time, and supllier delivery time.
 - The system should notify the customer when their project is next.
 - The system should include delivery routes and addresses.
+- If multiple projects are running, a project portfolio must be created to determine the priority of a specific system, and the contraints to make changes to existing systems. 
+- Database should have contraints on sensitive information, regulating who and how should enter and access the information within the database.
+- There should be a long term plan to provide maintenance, update, and retire the system. 
 # 4. Business operational requirements
 ## 1. Business processes
 Business Process #1: Employee Management
